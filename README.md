@@ -6,6 +6,9 @@ This project provides a sample application implementing Retrieval-Augmented Gene
 
 There are many articles about RAG, but most provide only superficial information, making it challenging to get a functional solution up and running. To address this, this repository provides a ready-to-use code sample.
 
+![Screenshot](Screenshot.png)
+
+
 ## Features
 
 - **Document Loading:** Supports Markdown, HTML, JSON, and CSV files.
@@ -24,7 +27,7 @@ There are many articles about RAG, but most provide only superficial information
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-rag-sample-app.git
+git clone https://github.com/ueda-keisuke/langchain-rag-sample-app
 cd langchain-rag-sample-app
 ```
 
@@ -141,6 +144,10 @@ This project is licensed under the MIT License.
 
 RAGに関する記事は多くありますが、そのほとんどは表面的な情報だけで、機能するソリューションを実際に作成するには苦労します。それを解決するため、このリポジトリではすぐに使えるサンプルコードを提供します。
 
+![Screenshot](Screenshot_JP.png)
+
+プロンプトに「日本語で答えてください」と書いておいてもいいかもしれません。英語のドキュメントの山でも日本語で質問に答えてくれるので便利だと思います。
+
 ## 特徴
 
 - **ドキュメント読み込み:** Markdown、HTML、JSON、およびCSVファイルをサポートしています。
@@ -159,7 +166,7 @@ RAGに関する記事は多くありますが、そのほとんどは表面的�
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/yourusername/langchain-rag-sample-app.git
+git clone https://github.com/ueda-keisuke/langchain-rag-sample-app
 cd langchain-rag-sample-app
 ```
 
